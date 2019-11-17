@@ -9,4 +9,3 @@ script:
   - npm run deps
   - npm test
 dist: trusty
-sudo: true
